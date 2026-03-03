@@ -1,0 +1,10 @@
+{% extends "assessment/layout.html" %}
+
+{% block content %}
+<h1>Success!</h1>
+<div
+    style="margin: 2rem 0; padding: 1.5rem; background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 0.5rem; color: #166534;">
+    {{ message }}
+</div>
+<a href="{% url 'subscribe' %}" class="btn">Back to Home</a>
+{% endblock %}

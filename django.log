@@ -1,0 +1,31 @@
+INFO 2026-03-03 13:29:09,157 views New subscriber created: test@example.com
+INFO 2026-03-03 13:29:13,783 views Welcome email sent to test@example.com
+INFO 2026-03-03 13:33:19,897 views User test@example.com has unsubscribed.
+INFO 2026-03-03 13:41:43,035 views New subscriber created: rajmohal1354@gmail.com
+INFO 2026-03-03 13:41:52,234 views Welcome email sent to rajmohal1354@gmail.com
+INFO 2026-03-03 13:52:20,101 views New subscriber created: 0201it221117@gmail.com
+INFO 2026-03-03 13:52:25,533 views Welcome email sent to 0201it221117@gmail.com
+WARNING 2026-03-03 13:56:03,918 views No campaigns found to send.
+WARNING 2026-03-03 14:01:04,055 views No campaigns found to send.
+INFO 2026-03-03 14:02:58,174 views Campaign 'Iran�Israel conflict' sent to 2 subscribers.
+INFO 2026-03-03 14:07:51,241 views Campaign 'Iran�Israel conflict' sent to 2 subscribers.
+INFO 2026-03-03 14:09:49,791 views Campaign 'T20 World Cup 2026' sent to 2 subscribers.
+INFO 2026-03-03 14:10:28,228 views New subscriber created: yatendrapachori54@gmail.com
+INFO 2026-03-03 14:10:28,232 views Welcome email sent to yatendrapachori54@gmail.com
+INFO 2026-03-03 14:11:08,396 views Welcome email sent to yatendrapachori54@gmail.com
+INFO 2026-03-03 14:12:49,375 views New subscriber created: 0201it221117@gmail.com
+INFO 2026-03-03 14:12:49,379 views Welcome email sent to 0201it221117@gmail.com
+INFO 2026-03-03 14:14:34,644 views User 0201it221117@gmail.com has unsubscribed via form.
+INFO 2026-03-03 14:15:58,200 views New subscriber created: 0201it221117@gmail.com
+INFO 2026-03-03 14:16:03,322 views Welcome email sent to 0201it221117@gmail.com
+INFO 2026-03-03 14:16:24,152 views Campaign 'T20 World Cup 2026' sent to 2 subscribers.
+INFO 2026-03-03 14:19:25,133 views Campaign 'T20 World Cup 2026' sent to 2 subscribers.
+INFO 2026-03-03 14:25:30,449 views Campaign 'T20 World Cup 2026' sent to 2 subscribers.
+INFO 2026-03-03 14:51:07,993 views New subscriber created: yatendrapachori54@gmail.com
+INFO 2026-03-03 14:51:14,643 views Welcome email sent to yatendrapachori54@gmail.com
+INFO 2026-03-03 14:54:52,449 signals Signal received: Dispatching campaign 'AI Summit 2026' to 3 subscribers.
+INFO 2026-03-03 14:54:57,161 views Dispatch signal sent for campaign 'AI Summit 2026' to 3 subscribers.
+INFO 2026-03-03 14:59:48,418 signals Signal received: Dispatching campaign 'T20 world cup 2026' to 3 subscribers.
+INFO 2026-03-03 14:59:53,625 views Dispatch signal sent for campaign 'T20 world cup 2026' to 3 subscribers.
+INFO 2026-03-03 15:01:09,825 signals Signal received: Dispatching campaign 'T20 world cup 2026' to 3 subscribers.
+INFO 2026-03-03 15:01:15,044 views Dispatch signal sent for campaign 'T20 world cup 2026' to 3 subscribers.

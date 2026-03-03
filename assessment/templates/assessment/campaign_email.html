@@ -1,0 +1,16 @@
+{% extends "assessment/base_email.html" %}
+
+{% block title %}{{ subject }}{% endblock %}
+
+{% block content %}
+<h2>{{ subject }}</h2>
+<p><i>{{ preview_text }}</i></p>
+<p><small>Published on: {{ published_date }}</small></p>
+
+<hr>
+<div>
+    {{ html_content|safe }}
+</div>
+<br>
+<p><a href="{{ article_url }}" class="btn">Read Full Article</a></p>
+{% endblock %}
