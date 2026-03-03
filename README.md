@@ -1,4 +1,4 @@
-# Trader Market Insights - Newsletter System
+# Market Insights - Newsletter System
 
 A robust and high-performance Django-based newsletter system designed for managing subscribers, creating campaigns, and dispatching emails efficiently using multi-threading.
 
